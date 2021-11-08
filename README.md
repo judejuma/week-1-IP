@@ -14,7 +14,7 @@ This is a simple portfolio highlighting my achievements and who I am as a person
 - Navigate to the folder and run the command : git clone https://github.com/judejuma/week-1-IP.git
 - Open on preferred code editor
 
-  [Link to the website]()
+  [Link to the website](https://judejuma.github.io/week-1-IP/)
 
 ## Known Bugs
 
